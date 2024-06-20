@@ -1,8 +1,7 @@
 Difficulties Encountered:
-Importing this dataset into MySQL Workbench might not present major difficulties, 
+Importing this dataset into MySQL Workbench did not present major difficulties, 
 as the dataset appears to be well-structured with clear column headers and consistent data types (e.g., integer, varchar). 
-However, depending on the specific MySQL setup and configurations, there could be challenges related to handling large datasets efficiently, ensuring data integrity during import,
-and optimizing queries for performance if the dataset grows significantly.
+
 
 Interesting Observations:
 One interesting thing about this dataset is the diversity in demographic and behavioral attributes captured:
